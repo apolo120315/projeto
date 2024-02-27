@@ -1,0 +1,10 @@
+h1 {color: rgb(8, 8, 8);}
+body h1 {text-align: center;}
+body {
+    background-image: url("https://i.makeagif.com/media/3-21-2022/2cmF_w.gif");
+    animation: 1s infinite;
+  }
+a{color: rgb(245, 102, 7);}
+a {
+  text-decoration: none;
+}
